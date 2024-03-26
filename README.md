@@ -57,10 +57,3 @@ func main() {
 * You can also run `file_line -src=./` on the command line.
 
 5. Execute `go build`.
-
-
-
-
- 
-
-Translated with www.DeepL.com/Translator (free version)
